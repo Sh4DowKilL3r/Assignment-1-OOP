@@ -32,9 +32,9 @@ public class Main {
 public static void main(String[] args) {
 
     // Create two students
-    Student s1 = new Student("Ali", "S101", 20, "BCS", "ali@email.com", 3.50, 2)
+    Student s1 = new Student("Ali", "S101", 20, "BCS", "ali@email.com", 3.50, 2);
 
-    Student s2 = new Student("Siti", "S102", 21, "BIT", "siti@email.com",3.20, 3)
+    Student s2 = new Student("Siti", "S102", 21, "BIT", "siti@email.com",3.20, 3);
 
     // Display both students' details
     System.out.println("=== Student Management System ===");
